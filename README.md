@@ -1,6 +1,13 @@
-n# ComfyUI_OverlayFrameNumber
+# ComfyUI_OverlayFrameNumber
 
 A ComfyUI custom node to overlay frame numbers on images (e.g., from VAE Decode) with customizable prefix, zero-padding, font, position, and text outline.
+
+
+
+https://github.com/user-attachments/assets/3989eabd-d793-4528-a06f-252751757652
+
+
+
 
 ## Installation
 1. Clone the repository into `ComfyUI/custom_nodes/`:
