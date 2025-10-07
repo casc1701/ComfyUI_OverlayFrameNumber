@@ -1,7 +1,7 @@
 [project]
 name = "overlayframenumber"
 description = "A ComfyUI custom node to overlay frame numbers on images (e.g., from VAE Decode) with customizable prefix, zero-padding, font, position, and text outline."
-version = "0.0.2"
+version = "1.0.0"
 license = {file = "LICENSE"} 
 # classifiers = [
 #     # For OS-independent nodes (works on all operating systems)
@@ -34,6 +34,7 @@ DisplayName = "ComfyUI_OverlayFrameNumber"
 Icon = ""
 includes = [] 
 # "requires-comfyui" = ">=1.0.0"  # ComfyUI version compatibility
+
 
 
 
